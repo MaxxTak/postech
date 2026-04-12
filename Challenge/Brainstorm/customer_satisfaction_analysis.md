@@ -4,6 +4,7 @@
 
 ### Variável Principal: `nps_score`
 - **Tipo**: Numérica contínua (0-10)
+-  sfasdfsf
 - **Descrição**: Score direto do Net Promoter Score coletado do cliente
 - **Distribuição observada**: Variação de 0.0 a 10.0 nos dados disponíveis
 - **Interpretação tradicional**:
